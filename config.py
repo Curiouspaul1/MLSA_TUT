@@ -1,0 +1,3 @@
+class Config:
+    SQLALCHEMY_DATABASE_TRACK_MODIFICATIONS = False
+    
